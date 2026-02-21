@@ -1,0 +1,43 @@
+{
+  "name": "gitflow-cli",
+  "version": "1.0.0",
+  "description": "Git workflow automator with AI-powered insights",
+  "main": "dist/index.js",
+  "bin": {
+    "gitflow": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "postbuild": "chmod +x dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js",
+    "watch": "tsc --watch",
+    "test": "jest",
+    "lint": "eslint src --ext .ts"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "workflow",
+    "automation"
+  ],
+  "author": "Eddy Joss Axel Mouity Etavenot",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^25.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "date-fns": "^4.1.0",
+    "inquirer": "^13.2.2",
+    "ora": "^9.3.0",
+    "simple-git": "^3.30.0"
+  }
+}
