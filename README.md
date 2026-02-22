@@ -296,7 +296,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Eddy Mouity**
 - GitHub: [@BornToShine](https://github.com/joss12)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/eddy-mouity)
+- LinkedIn:[@Eddy-Mouity](linkedin.com/in/eddy-mouity-30b38421a)
 
 ## 🙏 Acknowledgments
 
