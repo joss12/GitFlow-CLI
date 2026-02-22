@@ -63,7 +63,7 @@ Most used patterns:
 
 ### From Source
 ```bash
-git clone https://github.com/BornToShine/gitflow-cli.git
+git clone https://github.com/joss12/gitflow-cli.git
 cd gitflow-cli
 npm install
 npm run build
