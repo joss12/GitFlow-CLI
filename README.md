@@ -294,9 +294,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-**BornToShine**
-- GitHub: [@BornToShine](https://github.com/BornToShine)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Eddy Mouity**
+- GitHub: [@BornToShine](https://github.com/joss12)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/eddy-mouity)
 
 ## 🙏 Acknowledgments
 
